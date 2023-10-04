@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShreeSub, Currently a masters Student at NC state 
+- 👋 Hi, I’m @ShreeSub, Currently working as an SDE @Microsoft
 - 👀 I’m interested in collaborating on cool Projects
 - 📫 You can reach me at https://www.linkedin.com/in/slramasu/
 
